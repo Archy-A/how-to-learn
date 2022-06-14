@@ -271,6 +271,7 @@
   z-index: 1;
   overflow: hidden;
   position: relative;
+  background-color: rgb(31, 31, 31);
 }
 
 .kaufman__section-title{
@@ -283,6 +284,7 @@
   line-height: 1.15;
   margin-bottom: 20px;
   z-index: 1;
+  color: rgb(255, 255, 255);
 }
 
 .kaufman__section-subtitle{
@@ -295,9 +297,14 @@
   line-height: 34px;
   margin-top: 0px;
   z-index: 1;
+  color: rgb(255, 255, 255);
 }
 
-.table_cell_size{
+.table__cell_text_font_white {
+  color: rgb(255, 255, 255);
+}
+
+.table__cell-size{
   width: 200px;
 }
 
@@ -433,8 +440,11 @@ a[href$='.facebook'] {
   color: rgb(255, 255, 255);
 }
 
+.section-subtitle__text_font_white {
+  color: rgb(255, 255, 255);
+}
 
-.text__font_white {
+.section-title__text_font_white {
   color: rgb(255, 255, 255);
 }
 
@@ -444,10 +454,6 @@ a[href$='.facebook'] {
 
 .table__titles_dark {
   background-color: rgb(31, 31, 31, 0);
-}
-
-.kaufman__backgroung_dark {
-  background-color: rgb(31, 31, 31);
 }
 
 .span-accent {
