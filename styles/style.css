@@ -154,7 +154,7 @@
   z-index: 1;
 }
 
-.table{
+.table {
   width: 1100px;
   margin: 0px;
   padding: 0px;
@@ -306,19 +306,6 @@
 
 .table__cell-size{
   width: 200px;
-}
-
-.table {
-  width: 1100px;
-  margin: 0px;
-  padding: 0px;
-  margin-left: auto;
-  margin-right: auto;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin-bottom: 100px;
-  z-index: 1;
 }
 
 .kaufman__triangle {
