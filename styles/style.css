@@ -320,6 +320,108 @@
   background-size: 90%;
 }
 
+.footer {
+  border: 3px solid rgb(6, 43, 255);
+  min-height: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.footer__columns {
+  border: 3px solid rgb(6, 255, 56);
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
+
+.footer__column_content-copyright {
+  display: flex;
+  flex-direction: column;
+  border: 3px solid rgb(255, 6, 6);
+  flex-basis: 711px;
+}
+
+.footer__column_content-info {
+  display: flex;
+  flex-direction: column;
+  border: 3px solid rgb(255, 6, 6);
+}
+
+.footer__column_content-social {
+  display: flex;
+  flex-direction: column;
+  border: 3px solid rgb(255, 6, 6);
+}
+
+.footer-dark {
+  background-color: rgb(31, 31, 31);
+}
+
+.footer__author {
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 25px;
+}
+
+.footer__column-heading {
+  font-size: 18px;
+  font-weight: bolder;
+  line-height: 30px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.footer__column-links {
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 30px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer__column-link {
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 30px;
+  color: #fff;
+  text-decoration: none;
+}
+
+a[href$='.instagram'] {
+  background: transparent url(../images/facebook_color_white.svg) center left no-repeat;
+  padding-left: 26px;
+}
+
+a[href$='.vk'] {
+  background: transparent url(../images/vk_color_white.svg) center left no-repeat;
+  padding-left: 26px;
+}
+
+a[href$='.facebook'] {
+  background: transparent url(../images/facebook_color_white.svg) center left no-repeat;
+  padding-left: 26px;
+}
+
+.footer__links {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+}
+
+.footer-text-white {
+  color: rgb(255, 255, 255);
+}
+
+
 .text__font_white {
   color: rgb(255, 255, 255);
 }
