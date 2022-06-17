@@ -178,6 +178,7 @@
 
 .table_theme_dark {
   background-color: rgb(31, 31, 31, 0);
+  margin-bottom: 0;
 }
 
 .table__cell{
