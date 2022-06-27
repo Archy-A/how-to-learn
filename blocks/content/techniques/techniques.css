@@ -1,0 +1,17 @@
+.techniques{
+    margin: 0px;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 784px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    z-index: 0;
+    position: relative;
+    width: 80%;
+    
+    border: 1px solid red;
+  }
