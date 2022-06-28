@@ -1,0 +1,13 @@
+.oakley__back {
+  width: 80%;
+  padding-top: 0;
+  margin-top: 160px;
+  margin-bottom: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  min-width: 784px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:  #f2f2f2;
+}

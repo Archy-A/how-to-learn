@@ -6,9 +6,4 @@
     margin-bottom: 0px;
     width: 515px;
     height: 316px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-
-    border: 3px solid rgb(12, 164, 45);
   }
