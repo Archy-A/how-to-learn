@@ -5,8 +5,10 @@
     padding: 0;
     display: flex;
     justify-content: center;
+    transition: 0.5s; 
   }
 
 .resources__link:hover {
     opacity: 0.8;
+    transition: 0.5s;
   }

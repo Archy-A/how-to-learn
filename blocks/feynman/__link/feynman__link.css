@@ -8,8 +8,10 @@
     position: absolute;
     top: 50%;
     color: #2f80ed;
+    transition: 0.5s; 
   }
 
 .feynman__link:hover {
-    opacity: 0.8;
+    opacity: 0.5;
+    transition: 0.5s;
 }
