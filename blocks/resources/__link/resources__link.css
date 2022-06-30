@@ -6,3 +6,7 @@
     display: flex;
     justify-content: center;
   }
+
+.resources__link:hover {
+    opacity: 0.8;
+  }

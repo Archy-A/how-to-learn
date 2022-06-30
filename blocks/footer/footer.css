@@ -4,6 +4,6 @@
     margin-right: auto;
     display: flex;
     flex-direction: row;
-    margin-top: 0px;
-    margin-bottom: 0px;
+    background-color: rgb(31, 31, 31);
+    color: rgb(255, 255, 255);
   }
